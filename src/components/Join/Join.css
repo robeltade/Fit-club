@@ -40,5 +40,6 @@
     color: var(--lighrgray);
 }
 .btn-j{
-    
+    background-color: var(--orange);
+    color: aliceblue;
 }
