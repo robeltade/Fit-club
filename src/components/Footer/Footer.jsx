@@ -10,6 +10,7 @@ function Footer() {
     <div className="footer-container">
         <hr />
         <div className="footer">
+          
             <div className="social-links">
               <img src={github} alt="" />
               <img src={instagram} alt="" />
@@ -20,6 +21,8 @@ function Footer() {
         <div className="logo-f">
             <img src={logo} alt="" />
         </div>
+        <div className="blur footer-b-1"></div>
+        <div className="blur footer-b-2"></div>
         </div>
     </div>
   )

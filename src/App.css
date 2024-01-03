@@ -41,3 +41,10 @@
   justify-content: center;
 
 }
+.blur{
+  background: rgba(253, 120,43,0.7);
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(150px);
+  z-index: -9;
+}
